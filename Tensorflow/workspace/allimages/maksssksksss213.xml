@@ -1,7 +1,7 @@
 
 <annotation>
     <folder>images</folder>
-    <filename>maksssksksss540.png</filename>
+    <filename>maksssksksss213.png</filename>
     <size>
         <width>301</width>
         <height>400</height>
@@ -9,16 +9,16 @@
     </size>
     <segmented>0</segmented>
     <object>
-        <name>without_mask</name>
+        <name>with_mask</name>
         <pose>Unspecified</pose>
         <truncated>0</truncated>
         <occluded>0</occluded>
         <difficult>0</difficult>
         <bndbox>
-            <xmin>107</xmin>
-            <ymin>129</ymin>
-            <xmax>202</xmax>
-            <ymax>245</ymax>
+            <xmin>63</xmin>
+            <ymin>183</ymin>
+            <xmax>174</xmax>
+            <ymax>313</ymax>
         </bndbox>
     </object>
 </annotation>
